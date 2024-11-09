@@ -1,4 +1,4 @@
-package net.mcg;
+package net.mcgassortment;
 
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;

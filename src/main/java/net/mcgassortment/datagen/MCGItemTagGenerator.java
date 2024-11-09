@@ -1,10 +1,10 @@
-package net.mcg.datagen;
+package net.mcgassortment.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
-import net.mcg.MCGBlocks;
-import net.mcg.MCGItems;
-import net.mcg.util.MCGTags;
+import net.mcgassortment.MCGBlocks;
+import net.mcgassortment.MCGItems;
+import net.mcgassortment.util.MCGTags;
 import net.minecraft.item.Items;
 import net.minecraft.registry.RegistryWrapper;
 import net.minecraft.registry.tag.ItemTags;

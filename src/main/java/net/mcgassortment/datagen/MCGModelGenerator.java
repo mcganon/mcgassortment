@@ -1,9 +1,9 @@
-package net.mcg.datagen;
+package net.mcgassortment.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
-import net.mcg.MCGBlocks;
-import net.mcg.MCGItems;
+import net.mcgassortment.MCGBlocks;
+import net.mcgassortment.MCGItems;
 import net.minecraft.block.Blocks;
 import net.minecraft.data.client.BlockStateModelGenerator;
 import net.minecraft.data.client.ItemModelGenerator;

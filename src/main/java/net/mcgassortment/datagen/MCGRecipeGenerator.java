@@ -1,9 +1,9 @@
-package net.mcg.datagen;
+package net.mcgassortment.datagen;
 
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricRecipeProvider;
-import net.mcg.MCGAssortment;
-import net.mcg.MCGBlocks;
+import net.mcgassortment.MCGAssortment;
+import net.mcgassortment.MCGBlocks;
 import net.minecraft.block.Blocks;
 import net.minecraft.data.server.recipe.RecipeExporter;
 import net.minecraft.data.server.recipe.RecipeGenerator;

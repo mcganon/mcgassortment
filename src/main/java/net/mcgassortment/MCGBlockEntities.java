@@ -1,7 +1,7 @@
-package net.mcg;
+package net.mcgassortment;
 
 import net.fabricmc.fabric.api.object.builder.v1.block.entity.FabricBlockEntityTypeBuilder;
-import net.mcg.blockentitystuff.blockentities.CrateBlockEntity;
+import net.mcgassortment.blockentitystuff.blockentities.CrateBlockEntity;
 import net.minecraft.block.entity.BlockEntityType;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;

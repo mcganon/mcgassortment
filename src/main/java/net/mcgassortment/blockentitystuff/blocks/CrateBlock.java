@@ -1,7 +1,7 @@
-package net.mcg.blockentitystuff.blocks;
+package net.mcgassortment.blockentitystuff.blocks;
 
 import com.mojang.serialization.MapCodec;
-import net.mcg.blockentitystuff.blockentities.CrateBlockEntity;
+import net.mcgassortment.blockentitystuff.blockentities.CrateBlockEntity;
 import net.minecraft.block.*;
 import net.minecraft.block.entity.BlockEntity;
 import net.minecraft.entity.ai.pathing.NavigationType;

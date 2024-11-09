@@ -1,6 +1,6 @@
-package net.mcg.util;
+package net.mcgassortment.util;
 
-import net.mcg.MCGAssortment;
+import net.mcgassortment.MCGAssortment;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraft.registry.RegistryKeys;

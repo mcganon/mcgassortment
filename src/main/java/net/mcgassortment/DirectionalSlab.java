@@ -1,4 +1,4 @@
-package net.mcg;
+package net.mcgassortment;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.BlockState;

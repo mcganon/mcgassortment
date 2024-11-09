@@ -1,6 +1,6 @@
-package net.mcg.blockentitystuff.blockentities;
+package net.mcgassortment.blockentitystuff.blockentities;
 
-import net.mcg.MCGBlockEntities;
+import net.mcgassortment.MCGBlockEntities;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.entity.BlockEntity;
 import net.minecraft.entity.player.PlayerEntity;

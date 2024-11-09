@@ -14,13 +14,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.mcg.MCGAssortment"
+			"net.mcgassortment.MCGAssortment"
 		],
 		"client": [
-			"net.mcg.MCGAssortmentClient"
+			"net.mcgassortment.MCGAssortmentClient"
 		],
 		"fabric-datagen": [
-          "net.mcg.datagen.MCGAssortmentDataGenerator"
+          "net.mcgassortment.datagen.MCGAssortmentDataGenerator"
 		]
 	},
 	"mixins": [

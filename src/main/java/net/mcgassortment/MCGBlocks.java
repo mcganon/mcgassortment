@@ -1,6 +1,6 @@
-package net.mcg;
+package net.mcgassortment;
 
-import net.mcg.blockentitystuff.blocks.CrateBlock;
+import net.mcgassortment.blockentitystuff.blocks.CrateBlock;
 import net.minecraft.block.*;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;

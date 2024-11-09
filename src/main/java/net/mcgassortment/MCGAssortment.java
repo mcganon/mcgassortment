@@ -1,4 +1,4 @@
-package net.mcg;
+package net.mcgassortment;
 
 import net.fabricmc.api.ModInitializer;
 

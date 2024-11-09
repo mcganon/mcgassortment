@@ -1,4 +1,4 @@
-package net.mcg;
+package net.mcgassortment;
 
 import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;

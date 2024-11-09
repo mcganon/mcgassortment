@@ -1,8 +1,8 @@
-// 1.21.3	2024-11-09T12:22:14.360697	MCG Assortment/Tags for minecraft:block
+// 1.21.3	2024-11-09T14:18:00.7592443	MCG Assortment/Tags for minecraft:block
 e01dc24331db16ed86ad090639a4c324b8c90489 data\minecraft\tags\block\mineable\axe.json
 bab0c9fad1e1c9b74bdfb04378db050916a7790a data\minecraft\tags\block\stairs.json
-0151fe91ca978107316e8cfd556cee063b96aa5d data\minecraft\tags\block\slabs.json
 64d7128a9f5bad465d94265500d6666cee60460c data\minecraft\tags\block\impermeable.json
 15026bceb926a13f2ea6a2bbf75b6c8bee3c53e9 data\minecraft\tags\block\walls.json
+0151fe91ca978107316e8cfd556cee063b96aa5d data\minecraft\tags\block\slabs.json
 39bb52a824fc284504e487eee66046da0576ff0d data\minecraft\tags\block\mineable\pickaxe.json
 09e744c7c993b251bc539da636921134a5a70cb2 data\minecraft\tags\block\sword_efficient.json

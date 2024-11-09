@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "produce=0": {
+      "model": "mcgassortment:block/empty_crate"
+    },
+    "produce=1": {
+      "model": "mcgassortment:block/apple_crate"
+    },
+    "produce=2": {
+      "model": "mcgassortment:block/potato_crate"
+    },
+    "produce=3": {
+      "model": "mcgassortment:block/carrot_crate"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_glass_pane_side",
+  "textures": {
+    "edge": "mcgassortment:block/borderless_glass_pane_top",
+    "pane": "mcgassortment:block/borderless_glass"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_borderless_purple_stained_glass_pane": {
+      "conditions": {
+        "items": [
+          {
+            "items": "mcgassortment:borderless_purple_stained_glass_pane"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mcgassortment:purple_stained_glass_pane"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_borderless_purple_stained_glass_pane"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "mcgassortment:purple_stained_glass_pane"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "variants": {
+    "facing=east,type=bottom": {
+      "model": "mcgassortment:block/bamboo_thatch_slab",
+      "y": 180,
+      "uvlock": false
+    },
+    "facing=east,type=double": {
+      "model": "mcgassortment:block/bamboo_thatch_horizontal",
+      "x": 90,
+      "y": 270,
+      "uvlock": false
+    },
+    "facing=east,type=top": {
+      "model": "mcgassortment:block/bamboo_thatch_slab_top",
+      "y": 180,
+      "uvlock": false
+    },
+    "facing=north,type=bottom": {
+      "model": "mcgassortment:block/bamboo_thatch_slab",
+      "y": 90,
+      "uvlock": false
+    },
+    "facing=north,type=double": {
+      "model": "mcgassortment:block/bamboo_thatch_horizontal",
+      "x": 90,
+      "y": 180,
+      "uvlock": false
+    },
+    "facing=north,type=top": {
+      "model": "mcgassortment:block/bamboo_thatch_slab_top",
+      "y": 90,
+      "uvlock": false
+    },
+    "facing=south,type=bottom": {
+      "model": "mcgassortment:block/bamboo_thatch_slab",
+      "y": 270,
+      "uvlock": false
+    },
+    "facing=south,type=double": {
+      "model": "mcgassortment:block/bamboo_thatch_horizontal",
+      "x": 90,
+      "uvlock": false
+    },
+    "facing=south,type=top": {
+      "model": "mcgassortment:block/bamboo_thatch_slab_top",
+      "y": 270,
+      "uvlock": false
+    },
+    "facing=west,type=bottom": {
+      "model": "mcgassortment:block/bamboo_thatch_slab",
+      "uvlock": false
+    },
+    "facing=west,type=double": {
+      "model": "mcgassortment:block/bamboo_thatch_horizontal",
+      "x": 90,
+      "y": 90,
+      "uvlock": false
+    },
+    "facing=west,type=top": {
+      "model": "mcgassortment:block/bamboo_thatch_slab_top",
+      "uvlock": false
+    }
+  }
+}

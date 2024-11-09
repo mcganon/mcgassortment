@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "borderless_glass_panes",
+  "key": {
+    "#": "mcgassortment:borderless_cyan_stained_glass"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 16,
+    "id": "mcgassortment:borderless_cyan_stained_glass_pane"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stained_glass_panes",
+  "key": {
+    "#": "mcgassortment:borderless_pink_stained_glass_pane"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:pink_stained_glass_pane"
+  }
+}

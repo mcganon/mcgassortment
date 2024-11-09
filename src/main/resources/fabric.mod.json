@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "mcgassortment",
+	"version": "${version}",
+	"name": "MCG Assortment",
+	"description": "Random additions requested by the fine people of /mcg/.",
+	"authors": [
+		"anon"
+	],
+	"contact": {
+	},
+	"license": "MIT",
+	"icon": "assets/mcgassortment/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.mcg.MCGAssortment"
+		],
+		"client": [
+			"net.mcg.MCGAssortmentClient"
+		],
+		"fabric-datagen": [
+          "net.mcg.datagen.MCGAssortmentDataGenerator"
+		]
+	},
+	"mixins": [
+	],
+	"depends": {
+		"fabricloader": ">=0.16.7",
+		"minecraft": ">=1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

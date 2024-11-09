@@ -1,0 +1,11 @@
+{
+    "parent": "mcgassortment:block/pillar_stairs_inner",
+    "textures": {
+      "bottom": "mcgassortment:block/bamboo_thatch_side_left",
+      "top": "mcgassortment:block/bamboo_thatch_side_left",
+      "left": "mcgassortment:block/bamboo_thatch_side_right",
+      "right": "mcgassortment:block/bamboo_thatch_side_left",
+      "back": "mcgassortment:block/bamboo_thatch_top",
+      "front": "mcgassortment:block/bamboo_thatch_top"
+    }
+  }

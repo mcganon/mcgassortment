@@ -1,0 +1,7 @@
+{
+  "parent": "mcgassortment:block/template_borderless_glass_pane_side",
+  "textures": {
+    "edge": "mcgassortment:block/borderless_cyan_stained_glass_pane_top",
+    "pane": "mcgassortment:block/borderless_cyan_stained_glass"
+  }
+}

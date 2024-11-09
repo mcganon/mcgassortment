@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "terracotta_walls",
+  "key": {
+    "#": "minecraft:yellow_terracotta"
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcgassortment:yellow_terracotta_wall"
+  }
+}

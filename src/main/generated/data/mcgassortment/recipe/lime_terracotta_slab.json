@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "terracotta_slabs",
+  "key": {
+    "#": "minecraft:lime_terracotta"
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "mcgassortment:lime_terracotta_slab"
+  }
+}

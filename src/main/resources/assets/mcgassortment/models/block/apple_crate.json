@@ -1,0 +1,6 @@
+{
+  "parent": "mcgassortment:block/full_crate",
+  "textures": {
+    "produce": "mcgassortment:block/apple_crate"
+  }
+}

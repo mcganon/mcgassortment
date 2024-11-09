@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mcgassortment:item/borderless_red_stained_glass_pane"
+  }
+}

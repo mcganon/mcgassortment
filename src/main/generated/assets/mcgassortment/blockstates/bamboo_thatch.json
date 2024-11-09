@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mcgassortment:block/bamboo_thatch_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "mcgassortment:block/bamboo_thatch"
+    },
+    "axis=z": {
+      "model": "mcgassortment:block/bamboo_thatch_horizontal",
+      "x": 90
+    }
+  }
+}

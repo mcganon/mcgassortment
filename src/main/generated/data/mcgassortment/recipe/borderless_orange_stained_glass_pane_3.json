@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "borderless_glass_panes",
+  "key": {
+    "#": "mcgassortment:borderless_glass_pane",
+    "X": "minecraft:orange_dye"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "mcgassortment:borderless_orange_stained_glass_pane"
+  }
+}

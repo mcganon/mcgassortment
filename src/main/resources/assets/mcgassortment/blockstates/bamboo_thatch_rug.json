@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "mcgassortment:block/bamboo_thatch_rug",
+      "y": 180,
+      "uvlock": false
+    },
+    "facing=north": {
+      "model": "mcgassortment:block/bamboo_thatch_rug",
+      "y": 90,
+      "uvlock": false
+    },
+    "facing=south": {
+      "model": "mcgassortment:block/bamboo_thatch_rug",
+      "y": 270,
+      "uvlock": false
+    },
+    "facing=west": {
+      "model": "mcgassortment:block/bamboo_thatch_rug",
+      "uvlock": false
+    }
+  }
+}

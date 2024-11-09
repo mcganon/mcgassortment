@@ -1,0 +1,10 @@
+{
+    "parent": "mcgassortment:block/pillar_slab_top",
+    "textures": {
+        "bottom": "mcgassortment:block/bamboo_thatch_side_left",
+        "top": "mcgassortment:block/bamboo_thatch_side_left",
+        "side": "mcgassortment:block/bamboo_thatch_top",
+        "left": "mcgassortment:block/bamboo_thatch_side_right",
+        "right": "mcgassortment:block/bamboo_thatch_side_left"
+    }
+}

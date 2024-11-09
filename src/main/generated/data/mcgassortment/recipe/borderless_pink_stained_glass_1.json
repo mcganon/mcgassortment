@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "borderless_stained_glass",
+  "key": {
+    "#": "minecraft:pink_stained_glass"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 9,
+    "id": "mcgassortment:borderless_pink_stained_glass"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:string",
+    "S": "#mcgassortment:candle_wax"
+  },
+  "pattern": [
+    "#",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:candle"
+  }
+}

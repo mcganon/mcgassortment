@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": "mcgassortment:borderless_glass",
+    "X": "minecraft:amethyst_shard"
+  },
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mcgassortment:borderless_tinted_glass"
+  }
+}

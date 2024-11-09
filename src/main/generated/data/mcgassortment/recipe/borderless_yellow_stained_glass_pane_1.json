@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "borderless_glass_panes",
+  "key": {
+    "#": "minecraft:yellow_stained_glass_pane"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 9,
+    "id": "mcgassortment:borderless_yellow_stained_glass_pane"
+  }
+}

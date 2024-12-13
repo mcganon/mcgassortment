@@ -1,14 +1,14 @@
 package net.mcgassortment.datagen;
 
+import net.fabricmc.fabric.api.client.datagen.v1.provider.FabricModelProvider;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
-import net.fabricmc.fabric.api.datagen.v1.provider.FabricModelProvider;
 import net.mcgassortment.MCGBlocks;
 import net.mcgassortment.MCGItems;
 import net.minecraft.block.Blocks;
-import net.minecraft.data.client.BlockStateModelGenerator;
-import net.minecraft.data.client.ItemModelGenerator;
-import net.minecraft.data.client.Models;
-import net.minecraft.data.client.TexturedModel;
+import net.minecraft.client.data.BlockStateModelGenerator;
+import net.minecraft.client.data.ItemModelGenerator;
+import net.minecraft.client.data.Models;
+import net.minecraft.client.data.TexturedModel;
 
 public class MCGModelGenerator extends FabricModelProvider {
     public MCGModelGenerator(FabricDataOutput output) {
@@ -147,7 +147,7 @@ public class MCGModelGenerator extends FabricModelProvider {
         blackTerracottaTexturePool.slab(MCGBlocks.BLACK_TERRACOTTA_SLAB);
         blackTerracottaTexturePool.wall(MCGBlocks.BLACK_TERRACOTTA_WALL);
 
-        blockStateModelGenerator.registerGlassPane(MCGBlocks.BORDERLESS_GLASS, MCGBlocks.BORDERLESS_GLASS_PANE);
+        blockStateModelGenerator.registerGlassAndPane(MCGBlocks.BORDERLESS_GLASS, MCGBlocks.BORDERLESS_GLASS_PANE);
         blockStateModelGenerator.registerSimpleCubeAll(MCGBlocks.BORDERLESS_WHITE_STAINED_GLASS);
         blockStateModelGenerator.registerSimpleCubeAll(MCGBlocks.BORDERLESS_ORANGE_STAINED_GLASS);
         blockStateModelGenerator.registerSimpleCubeAll(MCGBlocks.BORDERLESS_MAGENTA_STAINED_GLASS);
@@ -190,6 +190,7 @@ public class MCGModelGenerator extends FabricModelProvider {
         itemModelGenerator.register(MCGBlocks.BORDERLESS_GREEN_STAINED_GLASS_PANE.asItem(), Models.GENERATED);
         itemModelGenerator.register(MCGBlocks.BORDERLESS_RED_STAINED_GLASS_PANE.asItem(), Models.GENERATED);
         itemModelGenerator.register(MCGBlocks.BORDERLESS_BLACK_STAINED_GLASS_PANE.asItem(), Models.GENERATED);
+        itemModelGenerator.register(MCGBlocks.CRATE.asItem());
         itemModelGenerator.register(MCGItems.TALLOW, Models.GENERATED);
     }
 }
